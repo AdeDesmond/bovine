@@ -10,7 +10,7 @@ export const AboveHeader = () => {
   return (
     <div
       className={cn(
-        "flex items-center justify-between bg-[#56362D] h-8 px-2 ",
+        "flex items-center justify-between bg-[#56362D] h-8 px-4 ",
         AboveHeaderFont.className
       )}
     >
