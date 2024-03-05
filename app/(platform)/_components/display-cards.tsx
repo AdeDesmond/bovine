@@ -23,7 +23,12 @@ export const DisplayCards = () => {
               alt="horn"
             />
           </div>
-          <h3 className={cn("text-xl text-center mb-2", titleFont.className)}>
+          <h3
+            className={cn(
+              "text-xl text-center mb-2 text-[#56362D]",
+              titleFont.className
+            )}
+          >
             Well prepared horns.
           </h3>
           <p className={cn("text-sm text-center ", bodyFont.className)}>
@@ -44,7 +49,12 @@ export const DisplayCards = () => {
               alt="horn"
             />
           </div>
-          <h3 className={cn("text-xl text-center mb-2", titleFont.className)}>
+          <h3
+            className={cn(
+              "text-xl text-center mb-2 text-[#56362D]",
+              titleFont.className
+            )}
+          >
             Bull horns for homes.
           </h3>
           <p className={cn("text-sm text-center ", bodyFont.className)}>
@@ -65,7 +75,12 @@ export const DisplayCards = () => {
               alt="horn"
             />
           </div>
-          <h3 className={cn("text-xl text-center mb-2", titleFont.className)}>
+          <h3
+            className={cn(
+              "text-xl text-center mb-2 text-[#56362D]",
+              titleFont.className
+            )}
+          >
             Customised horns.
           </h3>
           <p className={cn("text-sm text-center ", bodyFont.className)}>

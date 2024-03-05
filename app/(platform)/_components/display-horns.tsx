@@ -21,7 +21,12 @@ export const DisplayHorns = () => {
         />
       </div>
       <div className="w-[250px]">
-        <h3 className={cn("text-xl text-center", titleFont.className)}>
+        <h3
+          className={cn(
+            "text-xl text-center text-[#56362D]",
+            titleFont.className
+          )}
+        >
           Our Horns.
         </h3>
         <p className={cn("text-sm text-center mt-2 ", bodyFont.className)}>
@@ -32,7 +37,12 @@ export const DisplayHorns = () => {
         </p>
       </div>
       <div className="w-[250px]">
-        <h3 className={cn("text-xl text-center", titleFont.className)}>
+        <h3
+          className={cn(
+            "text-xl text-center text-[#56362D]",
+            titleFont.className
+          )}
+        >
           Our Sourcing process.
         </h3>
         <p className={cn("text-sm text-center mt-2 ", bodyFont.className)}>
@@ -43,7 +53,12 @@ export const DisplayHorns = () => {
         </p>
       </div>
       <div className="w-[250px]">
-        <h3 className={cn("text-xl text-center", titleFont.className)}>
+        <h3
+          className={cn(
+            "text-xl text-center text-[#56362D]",
+            titleFont.className
+          )}
+        >
           Who we are.
         </h3>
         <p className={cn("text-sm text-center mt-2 ", bodyFont.className)}>
@@ -54,7 +69,12 @@ export const DisplayHorns = () => {
         </p>
       </div>
       <div className="w-[250px]">
-        <h3 className={cn("text-xl text-center", titleFont.className)}>
+        <h3
+          className={cn(
+            "text-xl text-center text-[#56362D]",
+            titleFont.className
+          )}
+        >
           Our Home.
         </h3>
         <p className={cn("text-sm text-center mt-2 ", bodyFont.className)}>
