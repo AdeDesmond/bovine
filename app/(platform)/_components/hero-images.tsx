@@ -43,7 +43,7 @@ export const DisplayCarousel = () => {
     >
       <CarouselContent className="w-full">
         {cowImages.map((product) => (
-          <CarouselItem key={product.id} className="w-full h-full">
+          <CarouselItem key={product.id} className="w-full h-full pl-0">
             <div className="w-full h-[60vh] relative ">
               <Image
                 src={product.cow}
